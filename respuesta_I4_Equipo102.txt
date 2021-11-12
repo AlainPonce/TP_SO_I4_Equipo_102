@@ -1,0 +1,4 @@
+A- En la rama TESTING el color de fondo de su pagina es: BLUE
+B- En la rama DESARROLLO el color de fondo de su pagina es: YELLOW
+C- En la rama MAIN el color de fondo de su pagina es: YELLOW
+D- El favicon en MAIN quedo el de BETA.
